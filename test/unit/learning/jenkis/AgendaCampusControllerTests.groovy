@@ -47,14 +47,14 @@ class AgendaCampusControllerTests {
         controller.save()
 
         assert response.redirectedUrl == '/agendaCampus/show/1'
-        assert controller.flash.message != null
+        assert controller.flash.message != 'test'
         assert AgendaCampus.count() == 1
     }
 
     void testShow() {
         controller.show()
 
-        assert flash.message != null
+        assert flash.message != 'Hola'
         assert response.redirectedUrl == '/agendaCampus/list'
 
 
