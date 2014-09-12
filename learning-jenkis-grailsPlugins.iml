@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/jquery-1.7.1/web-app" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/cloud-bees-0.6.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/cloud-bees-0.6.2/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/hibernate-2.0.0" />
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/jquery-1.7.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/jquery-1.7.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/jquery-1.7.1/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/jquery-1.7.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/jquery-1.7.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/resources-1.1.5">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/resources-1.1.5/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/resources-1.1.5/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/resources-1.1.5/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/resources-1.1.5/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/tomcat-2.0.0" />
+    <content url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/webxml-1.4.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.0/projects/learning-jenkis/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/kriswallsmith/assetic" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/twig/twig" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/sensio/generator-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/cache" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/assetic-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/annotations" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/orm" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/psr/log" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/icu" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/composer" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/monolog-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/dbal" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/common" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/lexer" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/monolog/monolog" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/twig/extensions" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/symfony" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/jdorn/sql-formatter" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/sensio/distribution-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/collections" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/swiftmailer-bundle" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/kriswallsmith/assetic" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/twig/twig" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/sensio/generator-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/cache" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/assetic-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/annotations" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/orm" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/psr/log" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/icu" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/composer" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/monolog-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/dbal" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/common" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/lexer" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/monolog/monolog" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/twig/extensions" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/symfony" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/jdorn/sql-formatter" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/sensio/distribution-bundle" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/doctrine/collections" />
+          <root url="file://$USER_HOME$/WebServer/Symfony/vendor/symfony/swiftmailer-bundle" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="grails-2.0.0" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library (learning-jenkis-grailsPlugins)">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/antlr/antlr/jars/antlr-2.7.6.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.5.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.5.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/stax/stax-api/jars/stax-api-1.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jettison/jettison/jars/jettison-1.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/xmlpull/xmlpull/jars/xmlpull-1.1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.thoughtworks.xstream/xstream/jars/xstream-1.4.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/commons-logging/commons-logging/jars/commons-logging-1.0.4.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/commons-httpclient/commons-httpclient/jars/commons-httpclient-3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.cloudbees/cloudbees-api-client/jars/cloudbees-api-client-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
